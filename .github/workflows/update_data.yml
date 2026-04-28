@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/
           git diff --staged --quiet || git commit -m "chore: refresh leaderboard data $(date -u +%Y-%m-%d)"
-          git pull --rebase
-          git push
+          git push origin main
