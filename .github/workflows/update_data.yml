@@ -2,9 +2,12 @@ name: Refresh leaderboard data
 
 on:
   schedule:
-    # Runs at 8 AM ET daily during baseball season (noon UTC)
     - cron: "0 12 * * *"
-  workflow_dispatch:   # allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+concurrency:
+  group: update-data
+  cancel-in-progress: true
 
 jobs:
   update-data:
@@ -13,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
