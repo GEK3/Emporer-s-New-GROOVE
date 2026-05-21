@@ -241,12 +241,12 @@ batter,Name,Pos,Team
 803011,Sam Antonacci,LF,CWS
 700337,Edgar Quero,C,CWS
 672284,Jarred Kelenic,RF,CWS
-608701,Rob Refsnyder,RF,SEA
+608701,Rob Refsnyder,DH,SEA
 806068,Colt Emerson,3B,SEA
 702284,Cole Young,2B,SEA
 641598,Mitch Garver,C,SEA
 656582,Connor Joe,RF,SEA
-621550,Patrick Wisdom,1B,SEA
+621550,Patrick Wisdom,3B,SEA
 671056,Iván Herrera,DH,STL
 802139,JJ Wetherholt,2B,STL
 693304,Nick Gonzales,3B,PIT
@@ -266,7 +266,7 @@ batter,Name,Pos,Team
 691023,Jordan Walker,RF,STL
 676475,Alec Burleson,1B,STL
 669707,Jared Triolo,3B,PIT
-691373,Jhostynxon Garcia,CF,PIT
+691373,Jhostynxon Garcia,RF,PIT
 680779,Henry Davis,C,PIT
 693409,César Prieto,3B,STL
 624413,Pete Alonso,1B,BAL
@@ -291,16 +291,16 @@ batter,Name,Pos,Team
 676439,Hunter Feduccia,C,TB
 701807,Carson Benge,RF,NYM
 620443,Luis Torrens,C,NYM
-683146,Brett Baty,RF,NYM
+683146,Brett Baty,3B,NYM
 671277,Luis García Jr.,1B,WSH
 695578,James Wood,RF,WSH
 683083,Nasim Nuñez,2B,WSH
 686452,Drew Millas,C,WSH
-703492,Nick Morabito,CF,NYM
+703492,Nick Morabito,LF,NYM
 805999,A.J. Ewing,CF,NYM
 543760,Marcus Semien,2B,NYM
 678391,Jorbit Vivas,3B,WSH
-686611,Dylan Crews,RF,WSH
+686611,Dylan Crews,CF,WSH
 695734,Daylen Lile,LF,WSH
 668901,Mark Vientos,1B,NYM
 665742,Juan Soto,LF,NYM
