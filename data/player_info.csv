@@ -1,4 +1,23 @@
 batter,Name,Pos,Team
+664761,Alec Bohm,3B,PHI
+669016,Brandon Marsh,LF,PHI
+547180,Bryce Harper,1B,PHI
+621438,Tyrone Taylor,CF,NYM
+805999,A.J. Ewing,CF,NYM
+682626,Francisco Alvarez,C,NYM
+683146,Brett Baty,3B,NYM
+676724,Jared Young,1B,NYM
+656941,Kyle Schwarber,DH,PHI
+607208,Trea Turner,SS,PHI
+702222,Justin Crawford,CF,PHI
+687282,Gabriel Rincones Jr.,RF,PHI
+593871,Jorge Polanco,DH,NYM
+701807,Carson Benge,RF,NYM
+596019,Francisco Lindor,SS,NYM
+592663,J.T. Realmuto,C,PHI
+681082,Bryson Stott,2B,PHI
+666182,Bo Bichette,SS,NYM
+665742,Juan Soto,LF,NYM
 677951,Bobby Witt Jr.,SS,KC
 695600,Carter Jensen,C,KC
 686555,Isaac Collins,LF,KC
@@ -61,17 +80,10 @@ batter,Name,Pos,Team
 682985,Riley Greene,LF,DET
 690993,Colt Keith,3B,DET
 693307,Dillon Dingler,C,DET
-664761,Alec Bohm,3B,PHI
-547180,Bryce Harper,1B,PHI
-656941,Kyle Schwarber,DH,PHI
-607208,Trea Turner,SS,PHI
-681082,Bryson Stott,2B,PHI
 805808,Kevin McGonigle,SS,DET
 681546,James Outman,CF,DET
 663837,Matt Vierling,CF,DET
-592663,J.T. Realmuto,C,PHI
 656537,Derek Hill,RF,PHI
-669016,Brandon Marsh,LF,PHI
 656716,Zach McKinstry,2B,DET
 680664,Eduardo Valencia,C,DET
 679529,Spencer Torkelson,1B,DET
@@ -137,24 +149,15 @@ batter,Name,Pos,Team
 687263,Zach Neto,SS,LAA
 672724,Oswald Peraza,2B,LAA
 668904,Royce Lewis,3B,MIN
-666182,Bo Bichette,SS,NYM
-683146,Brett Baty,3B,NYM
-593871,Jorge Polanco,DH,NYM
 678882,Ceddanne Rafaela,CF,BOS
 678011,Anthony Seigler,2B,BOS
 657136,Connor Wong,C,BOS
-621438,Tyrone Taylor,CF,NYM
-701807,Carson Benge,RF,NYM
-676724,Jared Young,1B,NYM
-596019,Francisco Lindor,SS,NYM
 807799,Masataka Yoshida,DH,BOS
 680776,Jarren Duran,LF,BOS
 655316,Andruw Monasterio,SS,BOS
 702332,Caleb Durbin,3B,BOS
 663853,Romy Gonzalez,DH,BOS
 677800,Wilyer Abreu,RF,BOS
-665742,Juan Soto,LF,NYM
-805999,A.J. Ewing,CF,NYM
 670097,Zack Short,SS,NYM
 681987,Nate Eaton,OF,BOS
 620443,Luis Torrens,C,NYM
@@ -318,7 +321,6 @@ batter,Name,Pos,Team
 665804,Miguel Amaya,C,CHC
 670770,TJ Friedl,CF,CIN
 624431,Jose Trevino,C,CIN
-687282,Gabriel Rincones Jr.,RF,PHI
 701162,Ben Malgeri,CF,DET
 701678,Hao-Yu Lee,2B,DET
 596146,Max Kepler,LF,AZ
@@ -331,7 +333,6 @@ batter,Name,Pos,Team
 668885,Austin Martin,RF,MIN
 605170,Victor Caratini,C,MIN
 656484,Tristan Gray,SS,MIN
-682626,Francisco Alvarez,C,NYM
 665966,Carlos Narváez,C,BOS
 691907,Tsung-Che Cheng,SS,BOS
 661388,William Contreras,C,MIL
@@ -376,7 +377,6 @@ batter,Name,Pos,Team
 694728,Brice Matthews,CF,HOU
 696285,Jacob Young,CF,WSH
 695391,Brett Harris,3B,BOS
-702222,Justin Crawford,CF,PHI
 701762,Nick Kurtz,1B,ATH
 680869,Zack Gelof,3B,ATH
 656577,Alex Jackson,C,MIN
