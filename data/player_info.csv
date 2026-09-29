@@ -48,7 +48,7 @@ batter,Name,Pos,Team
 575929,Willson Contreras,1B,BOS
 701350,Roman Anthony,LF,BOS
 691718,Pete Crow-Armstrong,CF,CHC
-687597,Jordan Beck,LF,COL
+687597,Jordan Beck,RF,COL
 687859,Troy Johnston,RF,COL
 691182,Adael Amador,2B,COL
 695657,Colson Montgomery,SS,CWS
@@ -225,7 +225,7 @@ batter,Name,Pos,Team
 500743,Miguel Rojas,2B,LAD
 687221,Dalton Rushing,C,LAD
 669242,Tommy Edman,2B,LAD
-815589,Bo Davidson,LF,SF
+815589,Bo Davidson,RF,SF
 813841,Jonah Cox,CF,SF
 687551,Drew Gilbert,CF,SF
 814154,Scott Bandura,LF,SF
@@ -654,7 +654,7 @@ batter,Name,Pos,Team
 663624,Ryan Mountcastle,1B,BAL
 678009,Parker Meadows,CF,DET
 600869,Jeimer Candelario,3B,LAA
-692216,CJ Kayfus,LF,CLE
+692216,CJ Kayfus,1B,CLE
 666185,Dylan Carlson,LF,CHC
 467793,Carlos Santana,1B,AZ
 691620,Jeferson Quero,C,MIL
@@ -1131,7 +1131,7 @@ batter,Name,Pos,Team
 702068,Cole Gabrielson,OF,NYY
 669722,Logan Davidson,1B,TB
 666165,Blake Sabol,C,TB
-692225,Kristian Campbell,2B,BOS
+692225,Kristian Campbell,OF,BOS
 642136,Matt Thaiss,C,BOS
 800384,Nicandro Aybar,3B,TB
 800377,Angel Mateo,OF,TB
