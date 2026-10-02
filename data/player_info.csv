@@ -1,4 +1,25 @@
 batter,Name,Pos,Team
+805249,Otto Kemp,LF,PHI
+650559,Bryan De La Cruz,RF,PHI
+681082,Bryson Stott,2B,PHI
+664761,Alec Bohm,3B,PHI
+645277,Ozzie Albies,2B,ATL
+663586,Austin Riley,3B,ATL
+573262,Mike Yastrzemski,LF,ATL
+547180,Bryce Harper,1B,PHI
+656941,Kyle Schwarber,DH,PHI
+607208,Trea Turner,SS,PHI
+656537,Derek Hill,CF,PHI
+643289,Mauricio Dubón,LF,ATL
+671739,Michael Harris II,CF,ATL
+621566,Matt Olson,1B,ATL
+660670,Ronald Acuña Jr.,RF,ATL
+686948,Drake Baldwin,C,ATL
+592663,J.T. Realmuto,C,PHI
+669016,Brandon Marsh,LF,PHI
+642086,Dominic Smith,DH,ATL
+702222,Justin Crawford,CF,PHI
+624641,Edmundo Sosa,LF,PHI
 702332,Caleb Durbin,3B,BOS
 678882,Ceddanne Rafaela,CF,BOS
 677800,Wilyer Abreu,RF,BOS
@@ -62,28 +83,8 @@ batter,Name,Pos,Team
 657757,Gavin Sheets,1B,SD
 806956,Ethan Salas,C,SD
 669720,Austin Hays,DH,SD
-642086,Dominic Smith,DH,ATL
-671739,Michael Harris II,CF,ATL
-663586,Austin Riley,3B,ATL
-643289,Mauricio Dubón,LF,ATL
-621566,Matt Olson,1B,ATL
-656537,Derek Hill,CF,PHI
-650559,Bryan De La Cruz,RF,PHI
-681082,Bryson Stott,2B,PHI
-664761,Alec Bohm,3B,PHI
-547180,Bryce Harper,1B,PHI
-656941,Kyle Schwarber,DH,PHI
-645277,Ozzie Albies,2B,ATL
-686948,Drake Baldwin,C,ATL
-660670,Ronald Acuña Jr.,RF,ATL
-573262,Mike Yastrzemski,LF,ATL
-607208,Trea Turner,SS,PHI
-592663,J.T. Realmuto,C,PHI
-702222,Justin Crawford,CF,PHI
-624641,Edmundo Sosa,LF,PHI
 669221,Sean Murphy,C,ATL
 673490,Ha-Seong Kim,SS,ATL
-669016,Brandon Marsh,LF,PHI
 655316,Andruw Monasterio,SS,BOS
 683011,Anthony Volpe,SS,NYY
 671218,Heliot Ramos,LF,NYY
@@ -626,7 +627,6 @@ batter,Name,Pos,Team
 457705,Andrew McCutchen,DH,TEX
 805904,Zach Cole,LF,HOU
 660162,Yoán Moncada,3B,LAA
-805249,Otto Kemp,LF,PHI
 686894,Joey Wiemer,RF,WSH
 668974,Maverick Handley,C,BAL
 694025,Felix Reyes,LF,PHI
