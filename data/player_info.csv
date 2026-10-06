@@ -1,20 +1,105 @@
 batter,Name,Pos,Team
+665862,Jazz Chisholm Jr.,2B,NYY
+806146,George Lombard Jr.,SS,NYY
+682987,Spencer Jones,CF,NYY
+666018,Jonathan Aranda,1B,TB
+650490,Yandy Díaz,DH,TB
+670764,Taylor Walls,SS,TB
+680700,Richie Palacios,2B,TB
+671277,Luis García Jr.,1B,NYY
+641355,Cody Bellinger,LF,NYY
+700250,Ben Rice,DH,NYY
+502671,Paul Goldschmidt,1B,NYY
+676356,Jonny DeLuca,RF,TB
+683748,Victor Mesa Jr.,RF,TB
+802415,Chandler Simpson,LF,TB
+689414,Liam Hicks,C,TB
+669224,Austin Wells,C,NYY
+663757,Trent Grisham,CF,NYY
+691406,Junior Caminero,3B,TB
+641857,Ryan McMahon,3B,NYY
+672275,Patrick Bailey,C,CLE
+683953,Travis Bazzana,2B,CLE
+682657,Angel Martínez,LF,CLE
+695657,Colson Montgomery,SS,CWS
+805367,Chase Meidroth,2B,CWS
+695731,Braden Montgomery,RF,CWS
+663993,Nathaniel Lowe,1B,CLE
+666176,Jo Adell,RF,CLE
+800050,Chase DeLauter,RF,CLE
+608070,José Ramírez,3B,CLE
+680757,Steven Kwan,LF,CLE
+686668,Brenton Doyle,CF,CWS
+545341,Randal Grichuk,DH,CWS
+808959,Munetaka Murakami,1B,CWS
+677587,Brayan Rocchio,SS,CLE
+678246,Miguel Vargas,3B,CWS
+691019,Kyle Teel,C,CWS
+803011,Sam Antonacci,LF,CWS
+502054,Tommy Pham,DH,CWS
+671976,Tristan Peters,CF,CWS
+643217,Andrew Benintendi,DH,CWS
+694192,Jackson Chourio,LF,MIL
+596142,Gary Sánchez,C,MIL
+683734,Andrew Vaughn,1B,MIL
+686217,Sal Frelick,RF,MIL
+592885,Christian Yelich,DH,MIL
+669003,Garrett Mitchell,CF,MIL
+687957,Dustin Harris,LF,SD
+665487,Fernando Tatis Jr.,RF,SD
+630105,Jake Cronenworth,2B,SD
+661388,William Contreras,C,MIL
+641343,Jake Bauers,1B,MIL
+668930,Brice Turang,2B,MIL
+666023,Freddy Fermin,C,SD
+593428,Xander Bogaerts,SS,SD
+669392,Samad Taylor,LF,SD
+701538,Jackson Merrill,CF,SD
+666152,David Hamilton,3B,MIL
+806198,Cooper Pratt,SS,MIL
+664034,Ty France,1B,SD
+592518,Manny Machado,3B,SD
+669134,Luis Campusano,C,SD
+669720,Austin Hays,DH,SD
+657757,Gavin Sheets,1B,SD
+800543,Josue De Paula,DH,LAD
+571970,Max Muncy,3B,LAD
+681624,Andy Pages,CF,LAD
+663656,Kyle Tucker,RF,LAD
+671739,Michael Harris II,CF,ATL
+645277,Ozzie Albies,2B,ATL
+621566,Matt Olson,1B,ATL
+606192,Teoscar Hernández,LF,LAD
+518692,Freddie Freeman,1B,LAD
+669257,Will Smith,C,LAD
+660670,Ronald Acuña Jr.,RF,ATL
+686948,Drake Baldwin,C,ATL
+573262,Mike Yastrzemski,LF,ATL
+663586,Austin Riley,3B,ATL
+642133,Rowdy Tellez,1B,ATL
+660271,Shohei Ohtani,TWP,LAD
+605141,Mookie Betts,SS,LAD
+669242,Tommy Edman,2B,LAD
+643289,Mauricio Dubón,LF,ATL
+657041,Lane Thomas,LF,ATL
+669221,Sean Murphy,C,ATL
+500743,Miguel Rojas,2B,LAD
+519317,Giancarlo Stanton,DH,NYY
+687401,Joey Ortiz,SS,MIL
+800325,Luis Lara,RF,MIL
+609280,Miguel Andujar,DH,SD
+806956,Ethan Salas,C,SD
+595978,Austin Hedges,C,CLE
+681807,David Fry,RF,CLE
+673490,Ha-Seong Kim,SS,ATL
 805249,Otto Kemp,LF,PHI
 650559,Bryan De La Cruz,RF,PHI
 681082,Bryson Stott,2B,PHI
 664761,Alec Bohm,3B,PHI
-645277,Ozzie Albies,2B,ATL
-663586,Austin Riley,3B,ATL
-573262,Mike Yastrzemski,LF,ATL
 547180,Bryce Harper,1B,PHI
 656941,Kyle Schwarber,DH,PHI
 607208,Trea Turner,SS,PHI
 656537,Derek Hill,CF,PHI
-643289,Mauricio Dubón,LF,ATL
-671739,Michael Harris II,CF,ATL
-621566,Matt Olson,1B,ATL
-660670,Ronald Acuña Jr.,RF,ATL
-686948,Drake Baldwin,C,ATL
 592663,J.T. Realmuto,C,PHI
 669016,Brandon Marsh,LF,PHI
 642086,Dominic Smith,DH,ATL
@@ -24,77 +109,41 @@ batter,Name,Pos,Team
 678882,Ceddanne Rafaela,CF,BOS
 677800,Wilyer Abreu,RF,BOS
 575929,Willson Contreras,1B,BOS
-682987,Spencer Jones,CF,NYY
-671277,Luis García Jr.,1B,NYY
-641355,Cody Bellinger,LF,NYY
 668939,Adley Rutschman,C,BOS
 663330,Jahmai Jones,DH,BOS
 680776,Jarren Duran,LF,BOS
-700250,Ben Rice,DH,NYY
-502671,Paul Goldschmidt,1B,NYY
-669224,Austin Wells,C,NYY
-663757,Trent Grisham,CF,NYY
-665862,Jazz Chisholm Jr.,2B,NYY
-806146,George Lombard Jr.,SS,NYY
 596115,Trevor Story,SS,BOS
 686765,Nick Sogard,2B,BOS
-641857,Ryan McMahon,3B,NYY
 681987,Nate Eaton,LF,BOS
 701358,Cam Smith,RF,HOU
 828599,Lucas Spence,CF,HOU
 572233,Christian Walker,1B,HOU
-808959,Munetaka Murakami,1B,CWS
-678246,Miguel Vargas,3B,CWS
-691019,Kyle Teel,C,CWS
-686668,Brenton Doyle,CF,CWS
-695657,Colson Montgomery,SS,CWS
 673237,Yainer Diaz,C,HOU
 514888,Jose Altuve,2B,HOU
 670623,Isaac Paredes,3B,HOU
 670541,Yordan Alvarez,DH,HOU
-695731,Braden Montgomery,RF,CWS
-805367,Chase Meidroth,2B,CWS
-671976,Tristan Peters,CF,CWS
 682668,Luisangel Acuña,SS,CWS
 665161,Jeremy Peña,SS,HOU
 669397,Nick Allen,SS,HOU
-803011,Sam Antonacci,LF,CWS
-643217,Andrew Benintendi,DH,CWS
 608348,Carson Kelly,C,CHC
 624424,Michael Conforto,DH,CHC
 663538,Nico Hoerner,2B,CHC
 664023,Ian Happ,LF,CHC
-593428,Xander Bogaerts,SS,SD
-701538,Jackson Merrill,CF,SD
-664034,Ty France,1B,SD
-592518,Manny Machado,3B,SD
-687957,Dustin Harris,LF,SD
 673548,Seiya Suzuki,RF,CHC
 621438,Tyrone Taylor,LF,CHC
 608324,Alex Bregman,3B,CHC
-665487,Fernando Tatis Jr.,RF,SD
-630105,Jake Cronenworth,2B,SD
-669392,Samad Taylor,LF,SD
 691718,Pete Crow-Armstrong,CF,CHC
 621020,Dansby Swanson,SS,CHC
-609280,Miguel Andujar,DH,SD
 807713,Matt Shaw,RF,CHC
 683737,Michael Busch,1B,CHC
-657757,Gavin Sheets,1B,SD
-806956,Ethan Salas,C,SD
-669720,Austin Hays,DH,SD
-669221,Sean Murphy,C,ATL
-673490,Ha-Seong Kim,SS,ATL
 655316,Andruw Monasterio,SS,BOS
 683011,Anthony Volpe,SS,NYY
 671218,Heliot Ramos,LF,NYY
 642708,Amed Rosario,3B,NYY
 701350,Roman Anthony,LF,BOS
 676369,Nelson Velázquez,LF,HOU
-545341,Randal Grichuk,DH,CWS
 666211,Taylor Trammell,LF,HOU
 699393,Pedro Ramírez,2B,CHC
-669134,Luis Campusano,C,SD
 672016,Denzel Clarke,CF,ATH
 811965,Joshua Kuroda-Grauer,3B,ATH
 695720,Tommy White,1B,ATH
@@ -119,7 +168,6 @@ batter,Name,Pos,Team
 694249,Cole Carrigg,CF,COL
 696100,Hunter Goodman,C,COL
 681393,Connor Norby,2B,COL
-502054,Tommy Pham,DH,CWS
 664983,Jake McCarthy,LF,COL
 678662,Ezequiel Tovar,SS,COL
 691011,Drew Romo,C,CWS
@@ -147,24 +195,17 @@ batter,Name,Pos,Team
 668804,Bryan Reynolds,LF,PIT
 690984,Petey Halpin,CF,CLE
 682177,Daniel Schneemann,CF,CLE
-672275,Patrick Bailey,C,CLE
 694197,Angel Genao,2B,CLE
 664728,Kyle Isbel,CF,KC
 686475,Tyler Tolbert,SS,KC
 686555,Isaac Collins,LF,KC
 686469,Vinnie Pasquantino,1B,KC
-681807,David Fry,RF,CLE
-663993,Nathaniel Lowe,1B,CLE
-666176,Jo Adell,RF,CLE
-683953,Travis Bazzana,2B,CLE
 668942,Josh Rojas,3B,KC
 695506,Jac Caglianone,RF,KC
 677951,Bobby Witt Jr.,SS,KC
-682657,Angel Martínez,LF,CLE
 672580,Maikel Garcia,3B,KC
 571912,Luke Maile,C,KC
 521692,Salvador Perez,DH,KC
-595978,Austin Hedges,C,CLE
 680577,DaShawn Keirsey Jr.,CF,ATL
 676551,Brewer Hicklen,RF,ATL
 691277,Deyvison De Los Santos,1B,MIA
@@ -180,21 +221,12 @@ batter,Name,Pos,Team
 693409,César Prieto,3B,STL
 665877,José Fermín,LF,STL
 701675,Nathan Church,CF,STL
-806198,Cooper Pratt,SS,MIL
-592885,Christian Yelich,DH,MIL
-596142,Gary Sánchez,C,MIL
 695336,Thomas Saggese,SS,STL
 669357,Nolan Gorman,3B,STL
 699024,Leo Bernal,C,STL
 671056,Iván Herrera,DH,STL
 691023,Jordan Walker,RF,STL
 686780,Pedro Pagés,C,STL
-668930,Brice Turang,2B,MIL
-694192,Jackson Chourio,LF,MIL
-641343,Jake Bauers,1B,MIL
-669003,Garrett Mitchell,CF,MIL
-666152,David Hamilton,3B,MIL
-686217,Sal Frelick,RF,MIL
 677649,Ezequiel Duran,SS,TEX
 669394,Jake Burger,1B,TEX
 608369,Corey Seager,SS,TEX
@@ -218,15 +250,9 @@ batter,Name,Pos,Team
 696030,Alejandro Osuna,LF,TEX
 663743,Nick Fortes,C,TB
 656775,Cedric Mullins,CF,TB
-676356,Jonny DeLuca,RF,TB
-680700,Richie Palacios,2B,TB
-689414,Liam Hicks,C,TB
 810938,Ben Williamson,2B,TB
 668723,Ryan Vilade,RF,TB
-683748,Victor Mesa Jr.,RF,TB
 622761,Jorge Mateo,SS,TB
-691406,Junior Caminero,3B,TB
-666018,Jonathan Aranda,1B,TB
 543510,James McCann,C,AZ
 694374,Tim Tawa,1B,AZ
 656976,Pavin Smith,1B,AZ
@@ -235,7 +261,6 @@ batter,Name,Pos,Team
 672695,Geraldo Perdomo,SS,AZ
 687749,Jase Bowen,RF,SD
 823550,Sung-Mun Song,2B,SD
-666023,Freddy Fermin,C,SD
 606466,Ketel Marte,2B,AZ
 663457,Lars Nootbaar,LF,AZ
 691783,Jordan Lawlar,CF,AZ
@@ -245,27 +270,18 @@ batter,Name,Pos,Team
 695391,Brett Harris,3B,SF
 701852,Drew Cavanaugh,C,SF
 676439,Hunter Feduccia,C,LAD
-681624,Andy Pages,CF,LAD
-571970,Max Muncy,3B,LAD
 669743,Alex Call,LF,LAD
-663656,Kyle Tucker,RF,LAD
 571771,Enrique Hernández,3B,LAD
 806367,Turner Hill,LF,SF
 691785,Marcelo Mayer,2B,SF
 687529,Grant McCray,CF,SF
-500743,Miguel Rojas,2B,LAD
 687221,Dalton Rushing,C,LAD
-669242,Tommy Edman,2B,LAD
 815589,Bo Davidson,RF,SF
 813841,Jonah Cox,CF,SF
 687551,Drew Gilbert,CF,SF
 814154,Scott Bandura,LF,SF
 682674,Victor Bericoto,LF,SF
-606192,Teoscar Hernández,LF,LAD
-518692,Freddie Freeman,1B,LAD
-660271,Shohei Ohtani,TWP,LAD
 694376,Shay Whitcomb,3B,SF
-605141,Mookie Betts,SS,LAD
 687263,Zach Neto,SS,LAA
 669326,Bryce Teodosio,LF,LAA
 695681,Christian Moore,2B,LAA
@@ -335,29 +351,20 @@ batter,Name,Pos,Team
 680779,Henry Davis,C,PIT
 665833,Oneil Cruz,CF,PIT
 695600,Carter Jensen,C,KC
-800050,Chase DeLauter,RF,CLE
-608070,José Ramírez,3B,CLE
-680757,Steven Kwan,LF,CLE
-677587,Brayan Rocchio,SS,CLE
 670231,John Rave,RF,KC
 686681,Michael Massey,2B,KC
 672640,Otto Lopez,SS,MIA
 805300,Jakob Marsee,CF,MIA
 676475,Alec Burleson,1B,STL
-800325,Luis Lara,RF,MIL
 802139,JJ Wetherholt,2B,STL
-661388,William Contreras,C,MIL
 663494,Bryan Torres,LF,STL
 663604,Brandon Lockridge,LF,MIL
 605170,Victor Caratini,C,MIN
 702176,Alan Roden,RF,MIN
 596117,Garrett Stubbs,C,PHI
-670764,Taylor Walls,SS,TB
-650490,Yandy Díaz,DH,TB
 545121,Ildemaro Vargas,1B,AZ
 672515,Gabriel Moreno,C,AZ
 678545,Osleivis Basabe,2B,SF
-669257,Will Smith,C,LAD
 668800,Andrew Knizner,C,SF
 545361,Mike Trout,CF,LAA
 623168,Tyler Heineman,C,LAA
@@ -381,7 +388,6 @@ batter,Name,Pos,Team
 691788,Joe Mack,C,MIA
 691026,Masyn Winn,SS,STL
 687363,Victor Scott II,CF,STL
-687401,Joey Ortiz,SS,MIL
 693306,Aaron Sabato,1B,MIN
 691181,Emmanuel Rodriguez,CF,MIN
 668952,Ryan Kreidler,SS,MIN
@@ -401,7 +407,6 @@ batter,Name,Pos,Team
 665750,Leody Taveras,CF,BAL
 676480,José Barrero,SS,BAL
 650968,Yohel Pozo,C,BAL
-802415,Chandler Simpson,LF,TB
 518595,Travis d'Arnaud,C,LAA
 624431,Jose Trevino,C,CIN
 666624,Christopher Morel,1B,NYM
@@ -418,13 +423,11 @@ batter,Name,Pos,Team
 660821,Jesús Sánchez,DH,AZ
 805346,Ben Ross,SS,MIN
 650402,Gleyber Torres,2B,DET
-800543,Josue De Paula,DH,LAD
 694728,Brice Matthews,CF,HOU
 801126,Brock Rodden,SS,SEA
 694212,Samuel Basallo,C,BAL
 656577,Alex Jackson,C,MIN
 808982,Jung Hoo Lee,RF,SF
-683734,Andrew Vaughn,1B,MIL
 690993,Colt Keith,3B,DET
 662139,Daulton Varsho,CF,HOU
 624428,Adam Frazier,2B,LAA
@@ -467,7 +470,6 @@ batter,Name,Pos,Team
 672613,Eliezer Alfonzo,C,LAD
 677942,Blaze Alexander,3B,BAL
 642201,Eli White,CF,BOS
-657041,Lane Thomas,LF,ATL
 694224,Gabriel Gonzalez,RF,MIN
 596146,Max Kepler,LF,AZ
 694377,Nick Yorke,3B,PIT
@@ -578,7 +580,6 @@ batter,Name,Pos,Team
 694410,LuJames Groover,1B,AZ
 642020,Chuckie Robinson,C,LAD
 656305,Matt Chapman,3B,SF
-642133,Rowdy Tellez,1B,ATL
 695238,Will Wagner,DH,SD
 669899,Ryan Ward,LF,LAD
 694362,Blake Dunn,CF,CIN
@@ -643,7 +644,6 @@ batter,Name,Pos,Team
 671655,George Valera,LF,CLE
 650391,Eloy Jiménez,DH,TOR
 695020,Tanner Murray,LF,CWS
-519317,Giancarlo Stanton,DH,NYY
 624512,Reese McGuire,C,CWS
 682641,Luis Matos,RF,MIL
 664068,Scott Kingery,SS,CHC
