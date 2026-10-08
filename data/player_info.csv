@@ -1,96 +1,102 @@
 batter,Name,Pos,Team
-592885,Christian Yelich,DH,MIL
-668930,Brice Turang,2B,MIL
-661388,William Contreras,C,MIL
-641343,Jake Bauers,1B,MIL
-806956,Ethan Salas,C,SD
-664034,Ty France,1B,SD
-592518,Manny Machado,3B,SD
-694192,Jackson Chourio,LF,MIL
-666152,David Hamilton,3B,MIL
-686217,Sal Frelick,RF,MIL
-806198,Cooper Pratt,SS,MIL
-701538,Jackson Merrill,CF,SD
-665487,Fernando Tatis Jr.,RF,SD
-630105,Jake Cronenworth,2B,SD
-669392,Samad Taylor,LF,SD
-669003,Garrett Mitchell,CF,MIL
-609280,Miguel Andujar,DH,SD
-593428,Xander Bogaerts,SS,SD
-687401,Joey Ortiz,SS,MIL
-687957,Dustin Harris,LF,SD
-573262,Mike Yastrzemski,LF,ATL
-643289,Mauricio Dubón,LF,ATL
-671739,Michael Harris II,CF,ATL
-645277,Ozzie Albies,2B,ATL
-571970,Max Muncy,3B,LAD
-518692,Freddie Freeman,1B,LAD
-605141,Mookie Betts,SS,LAD
-571771,Enrique Hernández,3B,LAD
-621566,Matt Olson,1B,ATL
-660670,Ronald Acuña Jr.,RF,ATL
-686948,Drake Baldwin,C,ATL
-676551,Brewer Hicklen,RF,ATL
-663656,Kyle Tucker,RF,LAD
-681624,Andy Pages,CF,LAD
-669242,Tommy Edman,2B,LAD
-500743,Miguel Rojas,2B,LAD
-660271,Shohei Ohtani,TWP,LAD
-663586,Austin Riley,3B,ATL
-657041,Lane Thomas,LF,ATL
-669257,Will Smith,C,LAD
-606192,Teoscar Hernández,LF,LAD
-642133,Rowdy Tellez,1B,ATL
-673490,Ha-Seong Kim,SS,ATL
+663757,Trent Grisham,CF,NYY
 665862,Jazz Chisholm Jr.,2B,NYY
-806146,George Lombard Jr.,SS,NYY
 682987,Spencer Jones,CF,NYY
+683011,Anthony Volpe,SS,NYY
+689414,Liam Hicks,C,TB
+656775,Cedric Mullins,CF,TB
+683748,Victor Mesa Jr.,RF,TB
+519317,Giancarlo Stanton,DH,NYY
+806146,George Lombard Jr.,SS,NYY
+641355,Cody Bellinger,LF,NYY
+502671,Paul Goldschmidt,1B,NYY
+691406,Junior Caminero,3B,TB
 666018,Jonathan Aranda,1B,TB
 650490,Yandy Díaz,DH,TB
 670764,Taylor Walls,SS,TB
-680700,Richie Palacios,2B,TB
-671277,Luis García Jr.,1B,NYY
-641355,Cody Bellinger,LF,NYY
 700250,Ben Rice,DH,NYY
-502671,Paul Goldschmidt,1B,NYY
+680700,Richie Palacios,2B,TB
 676356,Jonny DeLuca,RF,TB
-683748,Victor Mesa Jr.,RF,TB
-802415,Chandler Simpson,LF,TB
-689414,Liam Hicks,C,TB
 669224,Austin Wells,C,NYY
-663757,Trent Grisham,CF,NYY
-691406,Junior Caminero,3B,TB
-641857,Ryan McMahon,3B,NYY
-672275,Patrick Bailey,C,CLE
-683953,Travis Bazzana,2B,CLE
-682657,Angel Martínez,LF,CLE
+671277,Luis García Jr.,1B,NYY
+676609,José Caballero,SS,NYY
+668723,Ryan Vilade,RF,TB
+678246,Miguel Vargas,3B,CWS
+803011,Sam Antonacci,LF,CWS
 695657,Colson Montgomery,SS,CWS
-805367,Chase Meidroth,2B,CWS
-695731,Braden Montgomery,RF,CWS
+680757,Steven Kwan,LF,CLE
+677587,Brayan Rocchio,SS,CLE
+672275,Patrick Bailey,C,CLE
+694197,Angel Genao,2B,CLE
+690984,Petey Halpin,CF,CLE
 663993,Nathaniel Lowe,1B,CLE
+545341,Randal Grichuk,DH,CWS
+695731,Braden Montgomery,RF,CWS
+671976,Tristan Peters,CF,CWS
 666176,Jo Adell,RF,CLE
 800050,Chase DeLauter,RF,CLE
 608070,José Ramírez,3B,CLE
-680757,Steven Kwan,LF,CLE
-686668,Brenton Doyle,CF,CWS
-545341,Randal Grichuk,DH,CWS
-808959,Munetaka Murakami,1B,CWS
-677587,Brayan Rocchio,SS,CLE
-678246,Miguel Vargas,3B,CWS
+683953,Travis Bazzana,2B,CLE
+805367,Chase Meidroth,2B,CWS
 691019,Kyle Teel,C,CWS
-803011,Sam Antonacci,LF,CWS
+808959,Munetaka Murakami,1B,CWS
+682657,Angel Martínez,LF,CLE
+657757,Gavin Sheets,1B,SD
+593428,Xander Bogaerts,SS,SD
+806956,Ethan Salas,C,SD
+668930,Brice Turang,2B,MIL
+661388,William Contreras,C,MIL
+592885,Christian Yelich,DH,MIL
+694192,Jackson Chourio,LF,MIL
+664034,Ty France,1B,SD
+592518,Manny Machado,3B,SD
+701538,Jackson Merrill,CF,SD
+665487,Fernando Tatis Jr.,RF,SD
+687401,Joey Ortiz,SS,MIL
+669003,Garrett Mitchell,CF,MIL
+686217,Sal Frelick,RF,MIL
+669392,Samad Taylor,LF,SD
+609280,Miguel Andujar,DH,SD
+669134,Luis Campusano,C,SD
+806198,Cooper Pratt,SS,MIL
+641343,Jake Bauers,1B,MIL
+669720,Austin Hays,DH,SD
+630105,Jake Cronenworth,2B,SD
+663586,Austin Riley,3B,ATL
+643289,Mauricio Dubón,LF,ATL
+642133,Rowdy Tellez,1B,ATL
+663656,Kyle Tucker,RF,LAD
+669242,Tommy Edman,2B,LAD
+571970,Max Muncy,3B,LAD
+606192,Teoscar Hernández,LF,LAD
+686948,Drake Baldwin,C,ATL
+645277,Ozzie Albies,2B,ATL
+621566,Matt Olson,1B,ATL
+660271,Shohei Ohtani,TWP,LAD
+669257,Will Smith,C,LAD
+518692,Freddie Freeman,1B,LAD
+660670,Ronald Acuña Jr.,RF,ATL
+671739,Michael Harris II,CF,ATL
+669221,Sean Murphy,C,ATL
+605141,Mookie Betts,SS,LAD
+681624,Andy Pages,CF,LAD
+800543,Josue De Paula,DH,LAD
+657041,Lane Thomas,LF,ATL
+571771,Enrique Hernández,3B,LAD
+573262,Mike Yastrzemski,LF,ATL
+666152,David Hamilton,3B,MIL
+687957,Dustin Harris,LF,SD
+676551,Brewer Hicklen,RF,ATL
+500743,Miguel Rojas,2B,LAD
+673490,Ha-Seong Kim,SS,ATL
+802415,Chandler Simpson,LF,TB
+641857,Ryan McMahon,3B,NYY
+686668,Brenton Doyle,CF,CWS
 502054,Tommy Pham,DH,CWS
-671976,Tristan Peters,CF,CWS
 643217,Andrew Benintendi,DH,CWS
 596142,Gary Sánchez,C,MIL
 683734,Andrew Vaughn,1B,MIL
 666023,Freddy Fermin,C,SD
-669134,Luis Campusano,C,SD
-669720,Austin Hays,DH,SD
-657757,Gavin Sheets,1B,SD
-800543,Josue De Paula,DH,LAD
-669221,Sean Murphy,C,ATL
-519317,Giancarlo Stanton,DH,NYY
 800325,Luis Lara,RF,MIL
 595978,Austin Hedges,C,CLE
 681807,David Fry,RF,CLE
@@ -139,7 +145,6 @@ batter,Name,Pos,Team
 807713,Matt Shaw,RF,CHC
 683737,Michael Busch,1B,CHC
 655316,Andruw Monasterio,SS,BOS
-683011,Anthony Volpe,SS,NYY
 671218,Heliot Ramos,LF,NYY
 642708,Amed Rosario,3B,NYY
 701350,Roman Anthony,LF,BOS
@@ -195,9 +200,7 @@ batter,Name,Pos,Team
 679529,Spencer Torkelson,1B,DET
 656811,Ryan O'Hearn,RF,PIT
 668804,Bryan Reynolds,LF,PIT
-690984,Petey Halpin,CF,CLE
 682177,Daniel Schneemann,CF,CLE
-694197,Angel Genao,2B,CLE
 664728,Kyle Isbel,CF,KC
 686475,Tyler Tolbert,SS,KC
 686555,Isaac Collins,LF,KC
@@ -250,9 +253,7 @@ batter,Name,Pos,Team
 670032,Nicky Lopez,2B,TEX
 696030,Alejandro Osuna,LF,TEX
 663743,Nick Fortes,C,TB
-656775,Cedric Mullins,CF,TB
 810938,Ben Williamson,2B,TB
-668723,Ryan Vilade,RF,TB
 622761,Jorge Mateo,SS,TB
 543510,James McCann,C,AZ
 694374,Tim Tawa,1B,AZ
@@ -392,7 +393,6 @@ batter,Name,Pos,Team
 691181,Emmanuel Rodriguez,CF,MIN
 668952,Ryan Kreidler,SS,MIN
 673962,Josh Jung,3B,TEX
-676609,José Caballero,SS,NYY
 645305,Ali Sánchez,C,NYY
 687637,Dylan Beavers,LF,BAL
 665966,Carlos Narváez,C,BAL
