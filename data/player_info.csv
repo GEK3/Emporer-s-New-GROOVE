@@ -1,4 +1,23 @@
 batter,Name,Pos,Team
+605141,Mookie Betts,SS,LAD
+800543,Josue De Paula,DH,LAD
+663656,Kyle Tucker,RF,LAD
+681624,Andy Pages,CF,LAD
+571970,Max Muncy,3B,LAD
+669003,Garrett Mitchell,CF,MIL
+683734,Andrew Vaughn,1B,MIL
+641343,Jake Bauers,1B,MIL
+661388,William Contreras,C,MIL
+668930,Brice Turang,2B,MIL
+694192,Jackson Chourio,LF,MIL
+606192,Teoscar Hernández,LF,LAD
+660271,Shohei Ohtani,TWP,LAD
+669257,Will Smith,C,LAD
+518692,Freddie Freeman,1B,LAD
+687401,Joey Ortiz,SS,MIL
+800325,Luis Lara,RF,MIL
+806198,Cooper Pratt,SS,MIL
+571771,Enrique Hernández,3B,LAD
 671976,Tristan Peters,CF,CWS
 643217,Andrew Benintendi,DH,CWS
 808959,Munetaka Murakami,1B,CWS
@@ -48,45 +67,28 @@ batter,Name,Pos,Team
 657757,Gavin Sheets,1B,SD
 593428,Xander Bogaerts,SS,SD
 806956,Ethan Salas,C,SD
-668930,Brice Turang,2B,MIL
-661388,William Contreras,C,MIL
 592885,Christian Yelich,DH,MIL
-694192,Jackson Chourio,LF,MIL
 664034,Ty France,1B,SD
 592518,Manny Machado,3B,SD
 701538,Jackson Merrill,CF,SD
 665487,Fernando Tatis Jr.,RF,SD
-687401,Joey Ortiz,SS,MIL
-669003,Garrett Mitchell,CF,MIL
 686217,Sal Frelick,RF,MIL
 669392,Samad Taylor,LF,SD
 609280,Miguel Andujar,DH,SD
 669134,Luis Campusano,C,SD
-806198,Cooper Pratt,SS,MIL
-641343,Jake Bauers,1B,MIL
 669720,Austin Hays,DH,SD
 630105,Jake Cronenworth,2B,SD
 663586,Austin Riley,3B,ATL
 643289,Mauricio Dubón,LF,ATL
 642133,Rowdy Tellez,1B,ATL
-663656,Kyle Tucker,RF,LAD
 669242,Tommy Edman,2B,LAD
-571970,Max Muncy,3B,LAD
-606192,Teoscar Hernández,LF,LAD
 686948,Drake Baldwin,C,ATL
 645277,Ozzie Albies,2B,ATL
 621566,Matt Olson,1B,ATL
-660271,Shohei Ohtani,TWP,LAD
-669257,Will Smith,C,LAD
-518692,Freddie Freeman,1B,LAD
 660670,Ronald Acuña Jr.,RF,ATL
 671739,Michael Harris II,CF,ATL
 669221,Sean Murphy,C,ATL
-605141,Mookie Betts,SS,LAD
-681624,Andy Pages,CF,LAD
-800543,Josue De Paula,DH,LAD
 657041,Lane Thomas,LF,ATL
-571771,Enrique Hernández,3B,LAD
 573262,Mike Yastrzemski,LF,ATL
 666152,David Hamilton,3B,MIL
 687957,Dustin Harris,LF,SD
@@ -96,9 +98,7 @@ batter,Name,Pos,Team
 802415,Chandler Simpson,LF,TB
 641857,Ryan McMahon,3B,NYY
 596142,Gary Sánchez,C,MIL
-683734,Andrew Vaughn,1B,MIL
 666023,Freddy Fermin,C,SD
-800325,Luis Lara,RF,MIL
 681807,David Fry,RF,CLE
 805249,Otto Kemp,LF,PHI
 650559,Bryan De La Cruz,RF,PHI
