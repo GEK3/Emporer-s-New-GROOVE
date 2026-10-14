@@ -1,26 +1,28 @@
 batter,Name,Pos,Team
-650490,Yandy Díaz,DH,TB
-689414,Liam Hicks,C,TB
-802415,Chandler Simpson,LF,TB
+680757,Steven Kwan,LF,CLE
+677587,Brayan Rocchio,SS,CLE
+672275,Patrick Bailey,C,CLE
+676356,Jonny DeLuca,RF,TB
+683748,Victor Mesa Jr.,RF,TB
+691406,Junior Caminero,3B,TB
+682657,Angel Martínez,LF,CLE
+683953,Travis Bazzana,2B,CLE
 663993,Nathaniel Lowe,1B,CLE
+666018,Jonathan Aranda,1B,TB
+650490,Yandy Díaz,DH,TB
+670764,Taylor Walls,SS,TB
 666176,Jo Adell,RF,CLE
 800050,Chase DeLauter,RF,CLE
 608070,José Ramírez,3B,CLE
-680757,Steven Kwan,LF,CLE
-677587,Brayan Rocchio,SS,CLE
-682657,Angel Martínez,LF,CLE
+689414,Liam Hicks,C,TB
+680700,Richie Palacios,2B,TB
+802415,Chandler Simpson,LF,TB
+690984,Petey Halpin,CF,CLE
 810938,Ben Williamson,2B,TB
-676356,Jonny DeLuca,RF,TB
-683748,Victor Mesa Jr.,RF,TB
+595978,Austin Hedges,C,CLE
 656775,Cedric Mullins,CF,TB
-672275,Patrick Bailey,C,CLE
-683953,Travis Bazzana,2B,CLE
-691406,Junior Caminero,3B,TB
-666018,Jonathan Aranda,1B,TB
-670764,Taylor Walls,SS,TB
 668723,Ryan Vilade,RF,TB
 663743,Nick Fortes,C,TB
-690984,Petey Halpin,CF,CLE
 500743,Miguel Rojas,2B,LAD
 669257,Will Smith,C,LAD
 660271,Shohei Ohtani,TWP,LAD
@@ -58,7 +60,6 @@ batter,Name,Pos,Team
 695731,Braden Montgomery,RF,CWS
 694197,Angel Genao,2B,CLE
 502054,Tommy Pham,DH,CWS
-595978,Austin Hedges,C,CLE
 663757,Trent Grisham,CF,NYY
 665862,Jazz Chisholm Jr.,2B,NYY
 682987,Spencer Jones,CF,NYY
@@ -68,7 +69,6 @@ batter,Name,Pos,Team
 641355,Cody Bellinger,LF,NYY
 502671,Paul Goldschmidt,1B,NYY
 700250,Ben Rice,DH,NYY
-680700,Richie Palacios,2B,TB
 669224,Austin Wells,C,NYY
 671277,Luis García Jr.,1B,NYY
 676609,José Caballero,SS,NYY
