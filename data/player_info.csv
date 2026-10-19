@@ -1,27 +1,28 @@
 batter,Name,Pos,Team
-682657,Angel Martínez,LF,CLE
-672275,Patrick Bailey,C,CLE
 683953,Travis Bazzana,2B,CLE
-691406,Junior Caminero,3B,TB
-802415,Chandler Simpson,LF,TB
+663993,Nathaniel Lowe,1B,CLE
+666176,Jo Adell,RF,CLE
+800050,Chase DeLauter,RF,CLE
+683748,Victor Mesa Jr.,RF,TB
 666018,Jonathan Aranda,1B,TB
 650490,Yandy Díaz,DH,TB
 670764,Taylor Walls,SS,TB
-680700,Richie Palacios,2B,TB
-681807,David Fry,RF,CLE
-666176,Jo Adell,RF,CLE
-800050,Chase DeLauter,RF,CLE
 608070,José Ramírez,3B,CLE
-663743,Nick Fortes,C,TB
-683748,Victor Mesa Jr.,RF,TB
-656775,Cedric Mullins,CF,TB
 680757,Steven Kwan,LF,CLE
 677587,Brayan Rocchio,SS,CLE
-663993,Nathaniel Lowe,1B,CLE
-690984,Petey Halpin,CF,CLE
-676356,Jonny DeLuca,RF,TB
+682657,Angel Martínez,LF,CLE
 810938,Ben Williamson,2B,TB
 689414,Liam Hicks,C,TB
+676356,Jonny DeLuca,RF,TB
+802415,Chandler Simpson,LF,TB
+691406,Junior Caminero,3B,TB
+672275,Patrick Bailey,C,CLE
+690984,Petey Halpin,CF,CLE
+668723,Ryan Vilade,RF,TB
+680700,Richie Palacios,2B,TB
+681807,David Fry,RF,CLE
+663743,Nick Fortes,C,TB
+656775,Cedric Mullins,CF,TB
 571771,Enrique Hernández,3B,LAD
 681624,Andy Pages,CF,LAD
 669242,Tommy Edman,2B,LAD
@@ -46,7 +47,6 @@ batter,Name,Pos,Team
 683734,Andrew Vaughn,1B,MIL
 500743,Miguel Rojas,2B,LAD
 595978,Austin Hedges,C,CLE
-668723,Ryan Vilade,RF,TB
 800543,Josue De Paula,DH,LAD
 671976,Tristan Peters,CF,CWS
 643217,Andrew Benintendi,DH,CWS
