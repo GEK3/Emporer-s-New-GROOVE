@@ -37,7 +37,7 @@ batter,Name,Pos,Team
 666176,Jo Adell,RF,CLE
 681807,David Fry,RF,CLE
 690984,Petey Halpin,CF,CLE
-571771,Enrique Hernández,3B,LAD
+571771,Enrique Hernández,CF,LAD
 681624,Andy Pages,CF,LAD
 669242,Tommy Edman,2B,LAD
 606192,Teoscar Hernández,LF,LAD
@@ -47,7 +47,7 @@ batter,Name,Pos,Team
 605141,Mookie Betts,SS,LAD
 660271,Shohei Ohtani,TWP,LAD
 571970,Max Muncy,3B,LAD
-500743,Miguel Rojas,2B,LAD
+500743,Miguel Rojas,SS,LAD
 595978,Austin Hedges,C,CLE
 800543,Josue De Paula,DH,LAD
 671976,Tristan Peters,CF,CWS
@@ -56,13 +56,13 @@ batter,Name,Pos,Team
 678246,Miguel Vargas,3B,CWS
 691019,Kyle Teel,C,CWS
 803011,Sam Antonacci,LF,CWS
-545341,Randal Grichuk,DH,CWS
+545341,Randal Grichuk,RF,CWS
 695657,Colson Montgomery,SS,CWS
 805367,Chase Meidroth,2B,CWS
 686668,Brenton Doyle,CF,CWS
 695731,Braden Montgomery,RF,CWS
 694197,Angel Genao,2B,CLE
-502054,Tommy Pham,DH,CWS
+502054,Tommy Pham,LF,CWS
 663757,Trent Grisham,CF,NYY
 665862,Jazz Chisholm Jr.,2B,NYY
 682987,Spencer Jones,CF,NYY
@@ -85,10 +85,10 @@ batter,Name,Pos,Team
 669392,Samad Taylor,LF,SD
 609280,Miguel Andujar,DH,SD
 669134,Luis Campusano,C,SD
-669720,Austin Hays,DH,SD
+669720,Austin Hays,LF,SD
 630105,Jake Cronenworth,2B,SD
 663586,Austin Riley,3B,ATL
-643289,Mauricio Dubón,LF,ATL
+643289,Mauricio Dubón,2B,ATL
 642133,Rowdy Tellez,1B,ATL
 686948,Drake Baldwin,C,ATL
 645277,Ozzie Albies,2B,ATL
@@ -96,7 +96,7 @@ batter,Name,Pos,Team
 660670,Ronald Acuña Jr.,RF,ATL
 671739,Michael Harris II,CF,ATL
 669221,Sean Murphy,C,ATL
-657041,Lane Thomas,LF,ATL
+657041,Lane Thomas,RF,ATL
 573262,Mike Yastrzemski,LF,ATL
 687957,Dustin Harris,LF,SD
 676551,Brewer Hicklen,RF,ATL
@@ -113,9 +113,9 @@ batter,Name,Pos,Team
 656537,Derek Hill,CF,PHI
 592663,J.T. Realmuto,C,PHI
 669016,Brandon Marsh,LF,PHI
-642086,Dominic Smith,DH,ATL
+642086,Dominic Smith,1B,ATL
 702222,Justin Crawford,CF,PHI
-624641,Edmundo Sosa,LF,PHI
+624641,Edmundo Sosa,SS,PHI
 702332,Caleb Durbin,3B,BOS
 678882,Ceddanne Rafaela,CF,BOS
 677800,Wilyer Abreu,RF,BOS
@@ -137,11 +137,11 @@ batter,Name,Pos,Team
 665161,Jeremy Peña,SS,HOU
 669397,Nick Allen,SS,HOU
 608348,Carson Kelly,C,CHC
-624424,Michael Conforto,DH,CHC
+624424,Michael Conforto,LF,CHC
 663538,Nico Hoerner,2B,CHC
 664023,Ian Happ,LF,CHC
 673548,Seiya Suzuki,RF,CHC
-621438,Tyrone Taylor,LF,CHC
+621438,Tyrone Taylor,CF,CHC
 608324,Alex Bregman,3B,CHC
 691718,Pete Crow-Armstrong,CF,CHC
 621020,Dansby Swanson,SS,CHC
@@ -149,7 +149,7 @@ batter,Name,Pos,Team
 683737,Michael Busch,1B,CHC
 655316,Andruw Monasterio,SS,BOS
 671218,Heliot Ramos,LF,NYY
-642708,Amed Rosario,3B,NYY
+642708,Amed Rosario,SS,NYY
 701350,Roman Anthony,LF,BOS
 676369,Nelson Velázquez,LF,HOU
 666211,Taylor Trammell,LF,HOU
@@ -157,7 +157,7 @@ batter,Name,Pos,Team
 672016,Denzel Clarke,CF,ATH
 811965,Joshua Kuroda-Grauer,3B,ATH
 695720,Tommy White,1B,ATH
-664774,LaMonte Wade Jr.,LF,HOU
+664774,LaMonte Wade Jr.,1B,HOU
 678489,Jorge Barrosa,CF,HOU
 643446,Jeff McNeil,2B,ATH
 680869,Zack Gelof,3B,ATH
@@ -222,7 +222,7 @@ batter,Name,Pos,Team
 681715,Heriberto Hernández,LF,MIA
 691594,Javier Sanoja,3B,MIA
 665052,Griffin Conine,RF,MIA
-571657,Kyle Farmer,DH,ATL
+571657,Kyle Farmer,SS,ATL
 640459,Brian Navarreto,C,MIA
 691858,Jared Serna,2B,MIA
 693409,César Prieto,3B,STL
@@ -323,7 +323,7 @@ batter,Name,Pos,Team
 664702,Myles Straw,CF,TOR
 678218,Brandon Valenzuela,C,TOR
 672960,Kazuma Okamoto,3B,TOR
-543807,George Springer,DH,TOR
+543807,George Springer,RF,TOR
 701807,Carson Benge,RF,NYM
 666182,Bo Bichette,3B,NYM
 665742,Juan Soto,LF,NYM
@@ -363,13 +363,13 @@ batter,Name,Pos,Team
 605170,Victor Caratini,C,MIN
 702176,Alan Roden,RF,MIN
 596117,Garrett Stubbs,C,PHI
-545121,Ildemaro Vargas,1B,AZ
+545121,Ildemaro Vargas,2B,AZ
 672515,Gabriel Moreno,C,AZ
 678545,Osleivis Basabe,2B,SF
 668800,Andrew Knizner,C,SF
 545361,Mike Trout,CF,LAA
 623168,Tyler Heineman,C,LAA
-621493,Taylor Ward,DH,SEA
+621493,Taylor Ward,LF,SEA
 703155,Lazaro Montes,RF,SEA
 672386,Alejandro Kirk,C,TOR
 665489,Vladimir Guerrero Jr.,1B,TOR
@@ -383,7 +383,7 @@ batter,Name,Pos,Team
 682626,Francisco Alvarez,C,NYM
 660688,Keibert Ruiz,C,WSH
 691002,Yohandy Morales,1B,WSH
-643396,Isiah Kiner-Falefa,2B,BOS
+643396,Isiah Kiner-Falefa,SS,BOS
 681508,Mickey Gasper,DH,BOS
 691728,Zac Veen,LF,COL
 691788,Joe Mack,C,MIA
