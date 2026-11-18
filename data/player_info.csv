@@ -674,12 +674,12 @@ batter,Name,Pos,Team
 808768,Ben McLaughlin,1B,AZ
 678232,Jesus Valdez,3B,AZ
 825761,Ryan Cesarini,OF,CLE
-702693,Jaison Chourio,OF,CLE
+702693,Jaison Chourio,CF,CLE
 806053,Dean Curley,SS,CLE
 702593,Jace LaViolette,OF,CLE
 624513,Dom Nuñez,C,CLE
 703641,Adrian Rodriguez,SS,AZ
-702258,Druw Jones,OF,AZ
+702258,Druw Jones,CF,AZ
 807267,JD Dix,2B,AZ
 806252,Ralphy Velazquez,1B,CLE
 702278,Nolan Schubart,1B,CLE
@@ -806,7 +806,7 @@ batter,Name,Pos,Team
 677342,Brock Jones,OF,TB
 808273,Alfonzo Martinez,OF,TB
 691183,Kevin Made,SS,WSH
-690961,Enrique Bradfield Jr.,OF,BAL
+690961,Enrique Bradfield Jr.,CF,BAL
 683770,Will Robertson,LF,BAL
 678877,Jhonkensy Noel,RF,BAL
 682983,Jud Fabian,OF,BAL
@@ -916,7 +916,7 @@ batter,Name,Pos,Team
 624523,Riley Unroe,2B,HOU
 699712,Raylin Heredia,OF,PHI
 823918,Kyle West,1B,NYY
-682003,Garrett Martin,OF,NYY
+682003,Garrett Martin,RF,NYY
 806994,Luis Guanipa,OF,ATL
 694222,Ambioris Tavarez,2B,ATL
 823719,Ramiro Dominguez,2B,MIN
